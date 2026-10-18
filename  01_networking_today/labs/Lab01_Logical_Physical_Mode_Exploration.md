@@ -29,7 +29,7 @@ Investigated the bottom toolbar and identified the available categories of netwo
 
 ![Investigate the Bottom Toolbar](../images/Lab01-Bottom-Toolbar.png)
 
-**Question:** What are the subcategories for Network Devices?
+**Question:** What are the subcategories for Network Devices?  
 **Answer:**
 - Routers
 - Switches
@@ -37,6 +37,8 @@ Investigated the bottom toolbar and identified the available categories of netwo
 - Wireles Devices
 - Security
 - WAN Emulation
+
+---
 
 ### Part 2: Investigate Devices in a Wiring Closet
 
@@ -46,18 +48,20 @@ Identified networking equipment, including routers, switches, a wireless access 
 
 Compared the representation of devices and connections in Logical and Physical modes.
 
-**Question:** What devices use a wired connection to connect to switch ALS2?
+**Question:** What devices use a wired connection to connect to switch ALS2?  
 **Answer:** Switch ALS1 and the Packet Tracer access point.
 
 ![Investigate Devices in a Wiring Closet Physical](../images/Lab01-Physical.png)
 
-**Question:** Which device is connected to Access_Point?
+**Question:** Which device is connected to Access_Point?  
 **Answer:** Laptop_01
 
 ![Investigate Devices in a Wiring Closet Logical](../images/Lab01-Logical.png)
 
-**Question:** Where is the device connected to Access_Point physically located?
+**Question:** Where is the device connected to Access_Point physically located?  
 **Answer:** On the table
+
+---
 
 ### Part 3: Connect End Devices to Networking Devices
 
@@ -68,11 +72,15 @@ Practised connecting devices using different network cables.
 
 ![Connect End Devices to Networking Devices](../images/Lab01-Physical.png)
 
+---
+
 ### Part 4: Install a Backup Router
 
 Installed a backup router in the equipment rack, powered it on, and established a USB console connection between the router and a laptop.
 
 ![Install a Backup Router](../images/Lab01-Backup-Router.png)
+
+---
 
 ### Part 5: Configure a Router Hostname
 
@@ -90,6 +98,8 @@ The command changed the router's hostname to `Edge_Router_Backup`.
 ![Configure a Router Hostname](../images/Lab01-Configure-Hostname.png)
 
 ![Backup Router Configuration](../images/Lab01-Backup-Router-Config.png)
+
+---
 
 ### Part 6: Explore the Rest of the Network 
 
