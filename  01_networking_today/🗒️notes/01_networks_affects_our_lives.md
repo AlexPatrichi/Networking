@@ -2,8 +2,8 @@
 
 **Cisco Networking Academy | Solent University**
 
-**Course:** CCNA: Introduction to Networks
-**Module:** 01 - Networking Today    
+**Course:** CCNA: Introduction to Networks  
+**Module:** 01 - Networking Today     
 **Focus Area:** Network Communication & Global Connectivity
 
 ## 🎯 Objective 
@@ -78,10 +78,10 @@ A student saves an assignment to OneDrive using a university computer. Later, th
 As networks connect more people, devices, and services, protecting information becomes increasingly important.
 
 Some fundamental security considerations include:
-    - **Confidentiality:** Protecting information from unauthorised access.
-    - **Integrity:** Ensuring information is not modified without authorisation.
-    - **Availability:** Ensuring systems and services remain accessible when needed.
-    - **Authentication:** Verifying the identity of users or devices before granting access.
+- **Confidentiality:** Protecting information from unauthorised access.
+- **Integrity:** Ensuring information is not modified without authorisation.
+- **Availability:** Ensuring systems and services remain accessible when needed.
+- **Authentication:** Verifying the identity of users or devices before granting access.
 
 ## 📌 Key Takeaways
 - Computer networks allow people and devices to communicate and exchange information.

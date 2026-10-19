@@ -23,7 +23,7 @@ throughout the CCNA course.
 The screenshot below shows Cisco Packet Tracer in Physical Mode, where network devices, cabling, 
 and equipment racks can be explored in a simulated environment.
 
-![Cisco Packet Tracer Physical Mode](images/00-packet-tracer-interface.png)
+![Cisco Packet Tracer Physical Mode](../📷%20images/00-packet-tracer-interface.png)
 
 ## 🛠️ Key Features
 
