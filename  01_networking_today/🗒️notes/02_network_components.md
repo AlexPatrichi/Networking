@@ -44,8 +44,6 @@ Common types of servers include:
 
 When a student accesses a university learning platform, their web browser acts as a client and communicates with a server that provides the requested content.
 
-**Key Concept:** Clients request services, while servers provide them.
-
 ## 🧠 1.2.2 Peer-to-Peer
 
 The word **peer** means someone or something of equal standing.
@@ -178,13 +176,15 @@ When selecting network media, network engineers consider:
 
 | Component | Main Function |
 |---|---|
-| Host | Sends or receives data over a network |
+| Host | Sends or receives data over a network and can act as clients, servers, or both. |
 | Client | Requests services or resources |
 | Server | Provides services or resources |
-| Peer-to-Peer | Allows devices to share resources without a dedicated server |
+| Peer-to-Peer | Allows devices to share resources directly without a dedicated server |
 | End Device | Acts as the source or destination of network communication |
-| Intermediary Device | Connects devices and forwards network traffic |
+| Intermediary Device | Connects devices and forwards data towards their destinations. |
 | Network Media | Carries data between devices using electrical signals, light, or radio waves |
+
+🗒️ Understanding network components is essential for network configuration, troubleshooting, and cybersecurity.
 
 ## 🔐 Security Relevance
 
@@ -195,12 +195,3 @@ Understanding network components helps identify how data travels across a networ
 - **Access Control:** Restricting access to shared files, printers, and other network resources.
 - **Network Traffic Security:** Using encryption to protect sensitive information during transmission.
 - **Wireless Security:** Securing Wi-Fi connections through authentication and encryption.
-
-## 📌 Key Takeaways
-
-- Hosts communicate over networks and can act as clients, servers, or both.
-- Peer-to-peer networks allow devices to share resources directly without dedicated servers.
-- End devices are the source or destination of network communication.
-- Intermediary devices connect networks and forward data towards their destinations.
-- Copper cables use electrical signals, fibre-optic cables use light, and wireless connections use radio waves.
-- Understanding network components is essential for network configuration, troubleshooting, and cybersecurity.
