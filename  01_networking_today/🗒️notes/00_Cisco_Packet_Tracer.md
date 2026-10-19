@@ -2,8 +2,8 @@
 
 **Cisco Networking Academy | Solent University**
 
-Platform: Cisco Packet Tracer    
-Focus Area: Network Simulation & Fundamentals 
+**Platform:** Cisco Packet Tracer    
+**Focus Area:** Network Simulation & Fundamentals 
 
 ## 🎯 Objective 
 
