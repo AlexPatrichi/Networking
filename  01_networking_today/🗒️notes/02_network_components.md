@@ -1,4 +1,4 @@
-# 1.2 Network Components
+# 🌐 1.2 Network Components
 
 **Cisco Networking Academy | Solent University**
 
@@ -172,7 +172,7 @@ When selecting network media, network engineers consider:
 - **Cost:** The price of equipment and installation.
 - **Environment:** Whether interference or physical obstacles could affect communication.
 
- ## 🛠️ Key Concepts to Remember
+## 📌 Key Concepts to Remember
 
 | Component | Main Function |
 |---|---|
