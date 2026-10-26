@@ -27,7 +27,7 @@ Homes and SOHO networks commonly use the following internet connection technolog
 
 ### Cable Broadband
 
-**Cable broadband** provides internet access using the same cable network that delivers cable television.
+**Cable broadband** provides internet access using the same cable network that delivers cable television.  
     > Different services carried over the same cable infrastructure.
 
 - Common in residential areas.
@@ -45,7 +45,7 @@ Example: A household receives television and internet services through the same 
 - Speeds may decrease over longer copper distances.
 
 NOTE: 
-Home offices and small businesses may use **ADSL (Asymmetric Digital Subscriber Line)**, which provides higher download speeds than upload speeds.
+Home offices and small businesses may use **ADSL (Asymmetric Digital Subscriber Line)**, which provides higher download speeds than upload speeds.  
     > ADSL allocates more capacity to downloading because many home users receive more data than they send.
 
 Example: A home office using a telephone line to access the internet through a DSL modem.
@@ -57,14 +57,14 @@ Example: A home office using a telephone line to access the internet through a D
 
 ### Cellular
 
-**Cellular internet access** uses a cell phone network to connect, such as 4G or 5G.
+**Cellular internet access** uses a cell phone network to connect, such as 4G or 5G.  
     > If you can get a cellular signal and an active mobile data service, you can get cellular internet access.
 
 - Connects through a mobile network provider.
 - Useful when fixed broadband is unavailable.
 - Performance depends on signal strength, the device, and network congestion.
 
-Example: Using a smartphone's mobile hotspot to connect a laptop to the internet.
+Example: Using a smartphone's mobile hotspot to connect a laptop to the internet.  
     > The laptop uses Wi-Fi to connect to the phone, while the phone uses cellular data to access the internet.
 
 ### Satellite
@@ -105,7 +105,7 @@ Example: A company uses a dedicated leased line from BT to provide reliable inte
 
 ### Metro Ethernet (Ethernet WAN)
 
-**Metro Ethernet** is a service that uses Ethernet technology to connect business locations across a city or metropolitan area.
+**Metro Ethernet** is a service that uses Ethernet technology to connect business locations across a city or metropolitan area.  
     > Metro Ethernets extend LAN access technology into the WAN.
 
 - Can connect multiple business sites.
