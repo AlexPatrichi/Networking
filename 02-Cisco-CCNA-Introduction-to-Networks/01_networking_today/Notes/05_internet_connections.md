@@ -147,9 +147,9 @@ Example: A company connecting its offices in London and Manchester through a tel
 
 Traditionally, organisations used separate networks for different communication services:
 
-**Data Networks:** Computers, file sharing, and internet access.
-**Telephone Networks:** Voice communication.
-**Video Networks:** Video conferencing and other video services.
+- **Data Networks:** Computers, file sharing, and internet access.
+- **Telephone Networks:** Voice communication.
+- **Video Networks:** Video conferencing and other video services.
 
 Each network used different technologies to carry the communication signal and it had its own set of rules and standards to ensure successful communication.
 
