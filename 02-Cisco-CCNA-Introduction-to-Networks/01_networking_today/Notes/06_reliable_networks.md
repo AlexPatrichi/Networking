@@ -1,9 +1,10 @@
-# Networking Today
+# 🌐 1.6 Reliable Networks
 
 **Cisco Networking Academy | Solent University**
 
-Platform: Cisco Packet Tracer    
-Focus Area: Network Simulation & Fundamentals 
+**Course:** CCNA: Introduction to Networks  
+**Module:** 01 - Networking Today     
+**Focus Area:** 
 
 ## 🎯 Objective 
 
@@ -12,14 +13,12 @@ Focus Area: Network Simulation & Fundamentals
 
 
 
-## 🛠️ Key Features
+## 📌 Key Concepts to Remember
 
 
 
 ## 🔐 Security Relevance
 
 
-
-## 📌 Key Takeaway
 
  

@@ -20,9 +20,9 @@ Identify common network components in Cisco Packet Tracer, understand their func
 
 ## 🧪 Lab Implementation
 
-### Part 1: Identify common components of a network as represented in Packet Tracer.
-
 ![Identify common components of a network](../Images/Lab02-Network-Representation.png)
+
+### Part 1: Identify common components of a network as represented in Packet Tracer.
 
 **Question:** Without entering the Internet cloud or Intranet cloud, how many icons in the topology represent endpoint devices (only one connection leading to them)?
 
