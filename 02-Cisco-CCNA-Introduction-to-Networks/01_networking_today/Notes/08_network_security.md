@@ -14,13 +14,15 @@ Understand common network security threats and the solutions used to protect net
 
 **Network security threats** are potential dangers that can compromise network devices, data, or services.
 
-Securing a network involves using protocols, technologies, devices, and security practices to protect data and reduce threats.
-    > Threats can originate from **external** or **internal** sources.
+Securing a network involves using protocols, technologies, devices, and security practices to protect data and reduce threats.  
+
+Threats can originate from **external** or **internal** sources.
 
 ### External Threats
 
-**External threats** originate from outside an organisation's network.
-    > Many external network security threats today originate from the internet.
+**External threats** originate from outside an organisation's network.  
+
+Many external network security threats today originate from the internet.
 
 - Viruses and worms: Malicious software that can infect devices and spread across networks.
 - Malware: Software designed to damage systems, steal information, or disrupt operations.
@@ -45,9 +47,10 @@ Example: An employee unknowingly opens a malicious email attachment, infecting t
 ## 🧠 1.8.2 Security Solutions
 
 **Network security solutions** are technologies, policies, and practices used to protect network devices, data, and services.
-    > Security should be implemented in multiple layers using different security solutions. If one security measure fails, others may still protect the network.
 
-    This approach is called defence in depth.
+Security should be implemented in multiple layers using different security solutions. If one security measure fails, others may still protect the network.  
+
+This approach is called **defence in depth.**
 
 ### Home and Small Office Networks
 

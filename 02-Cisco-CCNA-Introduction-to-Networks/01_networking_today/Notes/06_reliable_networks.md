@@ -36,8 +36,8 @@ Redundancy means having backup connections or devices to reduce the impact of fa
 ### Packet-Switched Network:
 A **packet-switched network** breaks data into smaller packets and sends them to their destination through available network paths.
 
-Packets can take different routes to reach the same destination. If one path fails, they can use another available route.
-    > The network must have **redundant paths** and be able to reroute traffic when a failure occurs. 
+Packets can take different routes to reach the same destination. If one path fails, they can use another available route.  
+The network must have **redundant paths** and be able to reroute traffic when a failure occurs. 
 
 ## 🧠 1.6.3 Scalability 
 
@@ -51,8 +51,8 @@ Example: A company expands from 50 to 100 employees. Its scalable network can su
 
 ## 🧠 1.6.4 Quality of Services 
 
-**Quality of Service (QoS)** is a network mechanism that prioritises certain types of traffic to maintain performance when network resources are limited.
-    > When the volume of traffic is grater than what can be transported across the network, devices will hold the packets in memory until resources become available to transmit them.
+**Quality of Service (QoS)** is a network mechanism that prioritises certain types of traffic to maintain performance when network resources are limited.  
+When the volume of traffic is grater than what can be transported across the network, devices will hold the packets in memory until resources become available to transmit them.
 
 - Prioritises time-sensitive traffic.
 - Helps reduce delays for important applications.
