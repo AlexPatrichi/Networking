@@ -70,7 +70,13 @@ A CLI-based network operating system, such as Cisco IOS on a router or switch, a
 
 ## 🧠 2.1.4 Access Methods
 
-Cisco networking devices can be accessed and configured using different methods.
+### NOTE: In-band vs Out-of-band Management
+- **In-band:** Management access through the normal network connection.
+Example: A laptop connects to a Cisco switch over the network using its IP address.
+- **Out-of-band:** Management access through a separate connection, independent of the normal network.
+Example: A laptop connects directly to a Cisco switch using a console cable.
+
+Cisco networking devices can be accessed and configured using different methods:
 
 ### Console
 
@@ -104,11 +110,8 @@ Provides **out-of-band access** via a dedicated management channel that is used 
 
 **Example:** An administrator accesses an older network device using Telnet in a controlled lab environment.
 
-### Note: In-band vs Out-of-band Management
-- **In-band:** Management access through the normal network connection.
-Example: A laptop connects to a Cisco switch over the network using its IP address.
-- **Out-of-band:** Management access through a separate connection, independent of the normal network.
-Example: A laptop connects directly to a Cisco switch using a console cable.
+NOTE: Some Cisco routers support a legacy Auxiliary (AUX) port, which allows remote CLI access through a telephone connection using a modem.  
+Like the console port, the AUX port provides out-of-band management and does not require an active IP network connection.
 
 ## 🧠 2.1.5 Terminal Emulation Programs
 
