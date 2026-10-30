@@ -41,11 +41,11 @@ Cisco IOS uses specific syntax rules to determine how commands should be entered
 
 Common syntax conventions include:
 
-- **Bold text** - Commands and keywords that must be entered exactly as shown.
-- *Italic text* - Arguments where the administrator supplies a value.
-- [x] - Optional elements.
-- {x} - Required choice between alternatives.
-- | - Separates alternative choices.
+**Bold text** - Commands and keywords that must be entered exactly as shown.  
+*Italic text* - Arguments where the administrator supplies a value.  
+[x] - Optional elements.  
+{x} - Required choice between alternatives.  
+| - Separates alternative choices.  
 
 ## 🧠 2.3.3 IOS Help Features
 
