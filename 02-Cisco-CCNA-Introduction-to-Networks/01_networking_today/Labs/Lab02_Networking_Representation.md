@@ -9,15 +9,6 @@ Focus Area:
 ## 🎯 Objective 
 Identify common network components in Cisco Packet Tracer, understand their functions, and distinguish between LANs, WANs, endpoint devices, intermediary devices, and network media.
 
-## 🧠 Core Concepts Learned
-- Endpoint Devices and Intermediary Devices
-- Network Media and Connection Types
-- Client-Server and Peer-to-Peer Networks
-- Switches and Routers
-- LANs and WANs
-- Internet and Intranet
-- Home and Business Internet Connectivity
-
 ## 🧪 Lab Implementation
 
 ![Identify common components of a network](../Images/Lab02-Network-Representation.png)

@@ -12,15 +12,6 @@ Focus Area: Network Topology, Device Connectivity & Basic Router Configuration
 - Identify networking devices and connections. 
 - Practise basic network installation and configuration tasks within a simulated business environment. 
 
-## 🧠 Core Concepts Learned
-
-- Logical Mode: Displays network devices and their connections in a logical topology.
-- Physical Mode: Represents the physical location of networking equipment, including buildings, wiring closets, racks, and cables.
-- Network Devices: Routers connect different networks, while switches connect devices within a local network.
-- Network Cabling: Different cables serve different purposes, including network connectivity and device management.
-- Console Access: Allows administrators to access and configure network devices through a direct management connection.
-- Cisco IOS: Provides a command-line interface for configuring and managing Cisco networking devices.
-
 ## 🧪 Lab Implementation
 
 ### Part 1: Investigate the Bottom Toolbar
