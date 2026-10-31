@@ -4,7 +4,7 @@
 
 Course: CCNA: Introduction to Networks
 Platform: Cisco Packet Tracer    
-Focus Area: 
+Focus Area: Network Components, Device Roles, Network Media & LAN/WAN Connectivity
 
 ## 🎯 Objective 
 Identify common network components in Cisco Packet Tracer, understand their functions, and distinguish between LANs, WANs, endpoint devices, intermediary devices, and network media.
