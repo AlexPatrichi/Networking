@@ -70,11 +70,11 @@ Continuing the process:
   <tr>
     <td align="center">
       <strong>TCP Opening (3-Way Handshake)</strong><br><br>
-      <img src="../../images/tcp-opening.png" width="300"/>
+      <img src="../01-Network-Fundamentals/Screenshots/tcp-opening.png" width="300"/>
     </td>
     <td align="center">
       <strong>TCP Closing (4-Way Termination)</strong><br><br>
-      <img src="../../images/tcp-closing.png" width="300"/>
+      <img src="../01-Network-Fundamentals/Screenshots/tcp-closing.png" width="300"/>
     </td>
   </tr>
 </table>

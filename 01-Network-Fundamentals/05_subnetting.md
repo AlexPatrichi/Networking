@@ -26,7 +26,7 @@ Focus Area: Subnetting
 
 <div align="center">
   <strong>Subnetting Example</strong><br><br>
-  <img src="../../images/subnetting-example.png" alt="Subnetting Example" width="400"/>
+  <img src="../01-Network-Fundamentals/Screenshots/subnetting-example.png" alt="Subnetting Example" width="400"/>
 </div>
 
 ### **Subnet Mask**
@@ -46,7 +46,7 @@ But:
 
 <div align="center">
   <strong>Subnet Mask Example</strong><br>
-  <img src="../../images/subnet-mask-example.png" alt="Subnet Mask Example" width="400"/>
+  <img src="../01-Network-Fundamentals/Screenshots/subnet-mask-example.png" alt="Subnet Mask Example" width="400"/>
   <br><br>
 </div>
 

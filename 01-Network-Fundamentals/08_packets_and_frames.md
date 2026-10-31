@@ -80,7 +80,7 @@ Focus Area: Packets and Frames
 
 <div align="center">
   <strong>Network Packet Flow Simulation</strong><br><br>
-  <img src="../../images/network-simulator.png" width="600"/>
+  <img src="../01-Network-Fundamentals/Screenshots/network-simulator.png" width="600"/>
 </div>
 
 ## 🛠️ Practical Skills Developed
