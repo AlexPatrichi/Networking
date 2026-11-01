@@ -38,6 +38,8 @@ Opened the Terminal application on the PC using the default console settings.
 Switch>
 ```
 
+---
+
 ### Part 2: Display and Configure Basic Device Settings
 
 **Step 1: Display the Cisco IOS Version**
@@ -69,6 +71,8 @@ Switch# show clock
 ```
 ![Configure the clock](../Images/Lab2_configure_the%20clock.png)
 
+---
+
 ### Part 3: Access a Cisco Router Using a Mini-USB Console Cable
 
 **Step 1: Install and Inspect a Cisco 4321 Router**
@@ -95,7 +99,6 @@ Router>
 > NOTE: Both serial and USB console connections provide local administrative access to Cisco devices without requiring an IP network connection.
 
 ![Access a Cisco Router Using a Mini-USB Console Cable](../Images/Lab2_router_access_using_usb.png)
-
 
 ## Reflection Questions
 

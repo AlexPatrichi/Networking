@@ -24,8 +24,6 @@ Connect PC1 (RS-232) to S1 (Console port) using a console cable
 
 ![Connect PC1 to S1 using a console cable](../Images/lab1_basic_connection.png)
 
----
-
 **Step 2: Establish a terminal session with S1**
 
 Opened the Terminal application on PC1 to access the S1 switch through the console connection.
@@ -34,8 +32,6 @@ Opened the Terminal application on PC1 to access the S1 switch through the conso
 - CLI prompt: S1>
 
 ![Establish a terminal session with S1](../Images/lab1_terminal_session_with_S1.png)
-
----
 
 **Step 3: Explore Cisco IOS Help**
 
@@ -61,8 +57,6 @@ S1#         - Privileged EXEC mode.
 ```
 
 NOTE: Explored command completion using the Tab key
-
----
 
 **Step 2: Enter Global Configuration Mode**
 
@@ -97,7 +91,6 @@ S1# show clock
 ```
 
 NOTE: The show clock command verifies the configured date and time.
----
 
 **Step 2: Explore Cisco IOS Command Errors**
 
