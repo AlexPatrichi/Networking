@@ -22,7 +22,7 @@ Focus Area: Console Access, Cisco IOS CLI, EXEC Modes, Context-Sensitive Help & 
 
 Connect PC1 (RS-232) to S1 (Console port) using a console cable 
 
-![Connect PC1 to S1 using a console cable](../Images/P1_S1_basic_connection.png)
+![Connect PC1 to S1 using a console cable](../Images/lab1_basic_connection.png)
 
 ---
 
@@ -33,7 +33,7 @@ Opened the Terminal application on PC1 to access the S1 switch through the conso
 - Bits per second: 9600
 - CLI prompt: S1>
 
-![Establish a terminal session with S1](../Images/P1_S2_terminal_session_with_S1.png)
+![Establish a terminal session with S1](../Images/lab1_terminal_session_with_S1.png)
 
 ---
 
