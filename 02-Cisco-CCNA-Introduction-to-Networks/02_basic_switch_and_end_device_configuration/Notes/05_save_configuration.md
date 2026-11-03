@@ -95,7 +95,7 @@ This command displays the current configuration on the terminal screen.
 
 Using terminal software such as PuTTY or Tera Term, administrators can capture this output and save it as a `.txt` file.
 
-![Capture Configuration to a Text File](../Images/Lab3_putty_save_text_configuration.png)
+![Capture Configuration to a Text File](../Images/05_putty_save_text_configuration.png)
 
 > **NOTE:** Saving a configuration to a text file is different from saving it to NVRAM. The text file is stored on the administrator's computer, not on the switch.
 
