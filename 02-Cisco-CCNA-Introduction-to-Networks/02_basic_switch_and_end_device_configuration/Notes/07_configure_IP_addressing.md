@@ -27,7 +27,6 @@ The main IPv4 settings are:
 - **DNS Server:** Translates domain names into IP addresses.
 
 **Example:**
-
 ```text
 IP Address:       192.168.1.10
 Subnet Mask:      255.255.255.0
@@ -36,7 +35,6 @@ DNS Server:       8.8.8.8
 ```
 
 **In Cisco Packet Tracer:**
-
 1. Select a PC.
 2. Open Desktop → IP Configuration.
 3. Select Static.
@@ -51,7 +49,6 @@ DNS Server:       8.8.8.8
 Instead of configuring each device manually, a DHCP server can assign an IP address, subnet mask, default gateway and DNS server.
 
 **In Cisco Packet Tracer:**
-
 1. Select a PC.
 2. Open **Desktop → IP Configuration**.
 3. Select **DHCP**.
@@ -76,6 +73,18 @@ These settings can be configured through the network adapter's IPv4 properties.
 
 Here, you can manually enter the IP configuration details or choose to obtain an IP address automatically using DHCP.
 
+**Verify IP Configuration**
+
+Open Command Prompt and enter:
+```text
+ipconfig
+```
+
+To display more detailed network information, including DHCP and DNS settings:
+```text
+ipconfig /all
+```
+
 ## 🧠 2.7.4 Switch Virtual Interface Configuration
 
 A **Switch Virtual Interface (SVI)** is a logical interface associated with a VLAN.
@@ -85,7 +94,6 @@ On a Layer 2 switch, an SVI can be assigned an IP address to allow remote manage
 Unlike physical Ethernet interfaces, an SVI does not require its own physical port.
 
 **Example: Configure a management IP address on VLAN 1**
-
 ```text
 Switch> enable
 Switch# configure terminal
@@ -103,7 +111,6 @@ Switch(config)# end
 - `ip default-gateway` — Configures the gateway for management traffic to other networks.
 
 **Verify the configuration:**
-
 ```text
 Switch# show ip interface brief
 ```
