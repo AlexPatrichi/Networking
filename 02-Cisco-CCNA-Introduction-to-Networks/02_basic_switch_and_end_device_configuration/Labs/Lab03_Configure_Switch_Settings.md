@@ -4,7 +4,7 @@
 
 Course: CCNA: Introduction to Networks
 Platform: Cisco Packet Tracer    
-Focus Area: 
+Focus Area: Initial Switch Configuration, Console Security, Password Protection, MOTD Banner & NVRAM Configuration Saving 
 
 ## 🎯 Objective 
 
