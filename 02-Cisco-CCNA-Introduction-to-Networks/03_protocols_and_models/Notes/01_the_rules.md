@@ -89,7 +89,7 @@ In networking:
 
 ## 🧠 3.1.6 Message Formatting and Encapsulation
 
-**Message Formatting** defines how information is organised so the receiver can interpret it correctly.
+**Message Formatting** defines how information is organised and structured, including how the sender's and receiver's addresses are identified, so the message can be delivered and interpreted correctly.
 
 **Encapsulation** is the process of adding protocol information to data before transmission.
 
