@@ -27,11 +27,9 @@ Every network communication involves three basic elements:
 - **Destination (Receiver):** The device that receives the message.
 - **Channel (Medium):** The path through which the message travels, such as an Ethernet cable or wireless connection.
 
-
 **Human Communication Analogy:**
 
 When two people communicate, one person sends a message, another receives it, and the message travels through a medium such as sound waves.
-
 Network communication follows the same basic principle.
 
 ## 🧠 3.1.2 Communications Protocols 
@@ -54,7 +52,6 @@ These rules establish how messages are **created, transmitted, received and unde
 **Human Communication Analogy:**
 
 Two people speaking different languages may struggle to understand each other unless they agree on a common language.
-
 The same applies to network devices that must use compatible protocols.
 
 ## 🧠 3.1.4 Network Protocol Requirements
@@ -112,8 +109,8 @@ Network protocols define how much information can be transmitted in a single mes
 Large amounts of data may need to be divided into smaller units before transmission.
 
 **Human Communication Analogy:**
-When explaining a complicated topic, we divide the information into smaller sentences rather than saying everything at once.
 
+When explaining a complicated topic, we divide the information into smaller sentences rather than saying everything at once.
 Network devices follow a similar principle when transmitting large amounts of data.
 
 **Why is message sizing important?**
