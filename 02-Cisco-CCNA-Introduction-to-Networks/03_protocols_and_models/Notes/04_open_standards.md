@@ -36,12 +36,13 @@ Several organisations help develop, maintain and coordinate the standards used b
 1. **ISOC (Internet Society)**
    - Promotes the open development, evolution and use of the internet.
 
-2. **IETF (Internet Engineering Task Force)**
+2. **IAB (Internet Architecture Board)**
+   - Provides guidance on how internet technologies should fit together. 
+   - IAB (Internet Architecture Board) provides guidance to: IETF and IRTF
+
+3. **IETF (Internet Engineering Task Force)**
    - Creates technical rules so internet devices can communicate.
    - Publishes technical documents called **RFCs (Requests for Comments)**.
-
-3. **IAB (Internet Architecture Board)**
-   - Provides guidance on how internet technologies should fit together.
 
 4. **IRTF (Internet Research Task Force)**
    - Researches technologies that could improve the internet in the future.
