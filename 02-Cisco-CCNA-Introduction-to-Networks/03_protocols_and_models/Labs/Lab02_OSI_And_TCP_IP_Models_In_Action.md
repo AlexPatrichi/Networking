@@ -20,7 +20,7 @@ Opened the Web Client browser and entered: `www.osi.local`
 
 Used **Capture/Forward** to follow the HTTP traffic between the client and the web server.
 
-`![HTTP traffic in Simulation Mode](../Images/Lab02-http-simulation.png)`
+![HTTP traffic in Simulation Mode](../Images/Lab02-http-simulation.png)
 
 Examined the OSI Model tab to understand how the data moves through the different networking layers.
 
@@ -36,7 +36,7 @@ Opened the Outbound PDU Details tab to examine the information added to the data
 | Layer 2 – Data Link | Source and destination MAC addresses |
 | Layer 1 – Physical | Transmission of bits |
 
-`![OSI Model](../Images/Lab02-osi-model.png)`
+![OSI Model](../Images/Lab02-osi-model.png)
 
 ### Part 3: Examine Other Network Protocols
 
@@ -47,7 +47,7 @@ Enabled additional protocol filters to investigate how different protocols work 
 - **TCP:** Establishes and closes the connection between the client and server.
 - **HTTP:** Transfers the web request and response.
 
-`![Protocol Events](../Images/Lab02-protocol-events.png)`
+![Protocol Events](../Images/Lab02-protocol-events.png)
 
 ## 🧰 Tools Used
 
