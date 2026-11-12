@@ -92,6 +92,13 @@ PC-A recognises that FTP Server is on the same IP network and sends the data dir
 
 **Important:** The IP packet still contains PC-A's source IP and PC-B's destination IP.
 
+### Ethernet Frame – MAC Address Order
+
+In an Ethernet frame, the destination MAC address comes first, followed by the source MAC address.
+
+1. Destination MAC – Where is the frame going?
+2. Source MAC – Who sent the frame?
+
 ## 🧠 3.7.5 Devices on a Remote Network
 
 ⚠️ When two devices belong to **different IP networks**, they normally need a router to communicate.
@@ -144,7 +151,7 @@ This happens because Ethernet frames are used for delivery over individual local
 - Source MAC: PC-A
 - Destination MAC: Router's interface on PC-A's network
 
-**Important:** Routers do not normally perform full de-encapsulation. Instead, they remove the incoming Data Link frame, examine the IP packet, and create a new frame with updated source and destination MAC addresses for the next link.
+Routers do not normally perform full de-encapsulation. Instead, they remove the incoming Data Link frame, examine the IP packet, and create a new frame with updated source and destination MAC addresses for the next link.
 
 **HOP 2 - Second Link: Router to PC-B**
 - Source MAC: Router's interface on PC-B's network
